@@ -24,15 +24,15 @@
 
 1.  Префаб противника
 
-![](media/image3.png){width="6.496527777777778in"
-height="2.3895833333333334in"}
+![Screenshot_2](https://user-images.githubusercontent.com/119409903/205106643-72364cdf-2cc1-46dd-a189-10f530d08b74.png)
+
 
 Рисунок 3
 
 1.  Префаб игрока
 
-![](media/image4.png){width="6.496527777777778in"
-height="2.4583333333333335in"}
+![Screenshot_5](https://user-images.githubusercontent.com/119409903/205106808-3561d055-dd75-4a72-99ea-d77b8cb00a1f.png)
+
 
 Рисунок 4
 
