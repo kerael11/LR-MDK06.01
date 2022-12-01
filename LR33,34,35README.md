@@ -24,7 +24,11 @@
  ![image](https://user-images.githubusercontent.com/119409903/205116814-b3a92368-1401-432f-920d-f0a95b71868e.png)
 
 Рис. 33.2 Префабы
+
+
 ⦁	Создал 2 сцены
+
+
  ![image](https://user-images.githubusercontent.com/119409903/205116873-98089663-cfc2-4ca8-b50b-a02b825064ef.png)
  
 
