@@ -157,6 +157,7 @@ public class PlotManager : MonoBehaviour
 ⦁	Далее настроили возможность построить из наших блоков земли всевозможные плантации и формы по соображению игроков. Также написали скрипт на изометрию блоков.
  
 Рисунок 3 
+
 ![Screenshot_1](https://user-images.githubusercontent.com/119409903/205114371-3cc7962c-5be5-4762-bbba-5cb37ad63762.png)
 
 ⦁	Скрипт Palette
